@@ -22,14 +22,14 @@ This project is a simple note-taking application built with React. It allows use
     ```
 3. Install dependencies:
     ```sh
-    npm install
+    yarn
     ```
 
 ## Usage
 
 1. Start the development server:
     ```sh
-    npm start
+    yarn dev
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
 
